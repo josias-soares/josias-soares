@@ -4,7 +4,7 @@ I'm josias, Luiza's father, ⚽Flamengo fan, 🎮gamer, 🎣fisherman and 👨�
 
 I am currently a mobile developer at [Zallpy](https://zallpy.com/)
 
-🔥 Skill Special ⚡⚡ 🍺😎  Craft Brewer 😎🍺 
+🔥 Skill Special ⚡⚡ 🍺😎  Craft Brewer 😎🍺
 You can find me: [![Gmail](https://img.shields.io/badge/-Gmail-black?style=flat&logo=Gmail&logoColor=white)](mailto:josias.mota.soares@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josias-mota-soares/) [![Twitter Follow](https://img.shields.io/twitter/follow/josiasmsoares?label=Follow)](https://twitter.com/josiasmsoares)
 
 ## 😍 My Recent Personal Project
