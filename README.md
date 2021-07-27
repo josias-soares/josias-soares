@@ -27,6 +27,3 @@ Application developed in [Flutter](https://flutter.dev/) to manage Zabbix server
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josias-soares&layout=compact&theme=tokyonight) 
 ---
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=josias-soares)
-
-<a href="https://stackoverflow.com/"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/amigo-caminhoneiro.png?raw=true" width="48">
-
