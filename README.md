@@ -28,4 +28,4 @@ Application developed in [Flutter](https://flutter.dev/) to manage Zabbix server
 ---
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=josias-soares)
 
-<img src="https://github.com/josias-soares/josias-soares/blob/main/img/amigo-caminhoneiro.png?raw=true" width="24">
+<img src="https://github.com/josias-soares/josias-soares/blob/main/img/amigo-caminhoneiro.png?raw=true" width="48">
