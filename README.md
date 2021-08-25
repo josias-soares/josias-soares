@@ -8,7 +8,7 @@ I am currently a mobile developer at [Zallpy](https://zallpy.com/)
 🔥 Special Ability ⚡⚡ 🍺😎  Craft Brewer 😎🍺
 
 
-You can find me: [![Gmail](https://img.shields.io/badge/-Gmail-black?style=flat&logo=Gmail&logoColor=white)](mailto:josias.mota.soares@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josias-mota-soares/) [![Twitter Follow](https://img.shields.io/twitter/follow/josiasmsoares?label=Follow)](https://twitter.com/josiasmsoares)
+You can find me: [![Gmail](https://img.shields.io/badge/-Gmail-black?style=flat&logo=Gmail&logoColor=white)](mailto:josias.mota.soares@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josias-mota-soares/)
 
 
 ## 😍 My Personal Project
