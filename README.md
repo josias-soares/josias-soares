@@ -1,6 +1,6 @@
 # Hello, folks! 👋
 
-I'm Josias, Luiza's father, ⚽Flamengo fan, 🎮gamer, 🎣fisherman and 👨🏽‍💻creating bugs for over 8 years, i started  in desktop development and went to mobile where i decided to stay, always looking for new things.
+I'm Josias, Luiza's father, ⚽Flamengo fan, 🎮gamer, 🎣fisherman and 👨🏽‍💻creating bugs for over 10 years, i started  in desktop development and went to mobile where i decided to stay, always looking for new things.
 
 I am currently a mobile developer at [Zallpy](https://zallpy.com/)
 
