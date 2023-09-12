@@ -1,8 +1,8 @@
 # Hello, folks! 👋
 
-I'm Josias, Luiza's father, ⚽Flamengo fan, 🎮gamer, 🎣fisherman and 👨🏽‍💻creating bugs for over 10 years, i started  in desktop development and went to mobile where i decided to stay, always looking for new things.
+I'm Josias, Luiza's father, ⚽Flamengo fan, <img src="https://github.com/josias-soares/josias-soares/blob/main/img/pistol.png?raw=true" width="24">CAC, 🎮gamer, 🎣fisherman and 👨🏽‍💻creating bugs for over 10 years, i started  in desktop development and went to mobile where i decided to stay, always looking for new things.
 
-I am currently a mobile developer at [Zallpy](https://zallpy.com/)
+I am currently a mobile developer at [Zallpy](https://zallpy.com/), performing the role of Android Tech Lead at [Unicred](https://unicred.com.br/)
 
 
 🔥 Special Ability ⚡⚡ 🍺😎  Craft Brewer 😎🍺
