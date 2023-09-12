@@ -18,7 +18,19 @@ Application developed in [Flutter](https://flutter.dev/) to manage Zabbix server
 
 
 ## 🔨 Projects
-<a href="https://play.google.com/store/apps/details?id=br.com.unicredvisa&hl=en&gl=US"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/unicred-visa.png?raw=true" width="48"> <a href="https://play.google.com/store/apps/details?id=br.com.sistemainfo.tip&hl=en&gl=US"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/tipbank.png?raw=true" width="48"> <a href="https://play.google.com/store/apps/details?id=br.com.sistemainfo.mhwl&hl=en"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/ats-conta-digital.png?raw=true" width="48"> <a href="https://play.google.com/store/apps/details?id=br.com.tmov.tmovapp.truckdriver&hl=en&gl=US"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/tmov.png?raw=true" width="48"> <a href="https://play.google.com/store/apps/details?id=br.com.sistemainfo.ats.global&hl=en"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/ats-tech.png?raw=true" width="48"> <a href="https://play.google.com/store/apps/details?id=br.com.sistemainfo.ouroverde.oncheck&hl=en&gl=US"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/oncheck.png?raw=true" width="48"> <a href="https://play.google.com/store/apps/details?id=br.com.sistemainfo.ats.transpes&hl=en"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/conecta-transp.png?raw=true" width="48"> <a href="https://play.google.com/store/apps/details?id=com.wlmsystems.jslmaps&hl=en"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/jsl.png?raw=true" width="48"> <a href="https://play.google.com/store/apps/details?id=br.com.sistemainfo.ats.atsdellavolpe&hl=en"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/della-vope.png?raw=true" width="48"> <a href="https://play.google.com/store/apps/details?id=br.com.sistemainfo.ats.excelsior&hl=en_IE&gl=US"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/excelsior.png?raw=true" width="48"> <a href="https://play.google.com/store/apps/details?id=br.com.sistemainfo.extratta&hl=en"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/extratta.png?raw=true" width="48"> <a href="https://play.google.com/store/apps/details?id=br.com.mahhaus.onezabbix&hl=en&gl=US"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/onezabbix.png?raw=true" width="48"> <a href="https://play.google.com/store/apps/details?id=com.sistemamob.appac&hl=pt&gl=US"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/amigo-caminhoneiro.png?raw=true" width="48">
+<a href="https://play.google.com/store/apps/details?id=br.com.unicredvisa&hl=en&gl=US"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/unicred-visa.png?raw=true" width="48"> 
+<a href="https://play.google.com/store/apps/details?id=br.com.sistemainfo.tip&hl=en&gl=US"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/tipbank.png?raw=true" width="48"> 
+<a href="https://play.google.com/store/apps/details?id=br.com.sistemainfo.mhwl&hl=en"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/ats-conta-digital.png?raw=true" width="48"> 
+<a href="https://play.google.com/store/apps/details?id=br.com.tmov.tmovapp.truckdriver&hl=en&gl=US"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/tmov.png?raw=true" width="48"> 
+<a href="https://play.google.com/store/apps/details?id=br.com.sistemainfo.ats.global&hl=en"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/ats-tech.png?raw=true" width="48"> 
+<a href="https://play.google.com/store/apps/details?id=br.com.sistemainfo.ouroverde.oncheck&hl=en&gl=US"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/oncheck.png?raw=true" width="48">
+<a href="https://play.google.com/store/apps/details?id=br.com.sistemainfo.ats.transpes&hl=en"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/conecta-transp.png?raw=true" width="48"> 
+<a href="https://play.google.com/store/apps/details?id=com.wlmsystems.jslmaps&hl=en"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/jsl.png?raw=true" width="48"> 
+<a href="https://play.google.com/store/apps/details?id=br.com.sistemainfo.ats.atsdellavolpe&hl=en"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/della-vope.png?raw=true" width="48"> 
+<a href="https://play.google.com/store/apps/details?id=br.com.sistemainfo.ats.excelsior&hl=en_IE&gl=US"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/excelsior.png?raw=true" width="48"> 
+<a href="https://play.google.com/store/apps/details?id=br.com.sistemainfo.extratta&hl=en"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/extratta.png?raw=true" width="48"> 
+<a href="https://play.google.com/store/apps/details?id=br.com.mahhaus.onezabbix&hl=en&gl=US"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/onezabbix.png?raw=true" width="48"> 
+<a href="https://play.google.com/store/apps/details?id=com.sistemamob.appac&hl=pt&gl=US"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/amigo-caminhoneiro.png?raw=true" width="48">
 
   
 ## 🔧 Code
@@ -30,14 +42,14 @@ Application developed in [Flutter](https://flutter.dev/) to manage Zabbix server
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=oracle&color=2bbc8a)
 
 ## 🔧 Tools
- ![](https://img.shields.io/badge/Library-JetpackCompose-informational?style=flat&logo=jetpackCompose&color=2bbc8a) 
+ ![](https://img.shields.io/badge/Framework-JetpackCompose-informational?style=flat&logo=jetpackCompose&color=2bbc8a) 
+ ![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=0075BA&color=2bbc8a) 
  ![](https://img.shields.io/badge/DI-Koin-informational?style=flat&logo=kotlin&logoColor=f8b133&color=2bbc8a) 
  ![](https://img.shields.io/badge/DI-Dagger-informational?style=flat&logo=google&color=2bbc8a) 
  ![](https://img.shields.io/badge/DI-Hilt-informational?style=flat&logo=google&color=2bbc8a) 
  ![](https://img.shields.io/badge/Library-Room-informational?style=flat&logo=google&color=2bbc8a) 
  ![](https://img.shields.io/badge/Library-Retrofit-informational?style=flat&logo=square&color=2bbc8a)  
  ![](https://img.shields.io/badge/Library-RxJava-informational?style=flat&logo=rxjavat&color=2bbc8a) 
- ![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=0075BA&color=2bbc8a) 
  ![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=spring&color=2bbc8a) 
  ![](https://img.shields.io/badge/Framework-Firebase-informational?style=flat&logo=firebase&color=2bbc8a) 
  ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&color=2bbc8a) 
