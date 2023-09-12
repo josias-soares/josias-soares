@@ -71,3 +71,5 @@ Application developed in [Flutter](https://flutter.dev/) to manage Zabbix server
 
   
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=josias-soares)
+
+![](https://simpleicons.org/?q=knife)
