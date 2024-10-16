@@ -72,7 +72,9 @@ Application developed in [Flutter](https://flutter.dev/) to manage Zabbix server
  ![](https://img.shields.io/badge/DB-DB2-informational?style=flat&logo=ibm&color=2bbc8a) 
  ![](https://img.shields.io/badge/DB-Oracle-informational?style=flat&logo=oracle&color=2bbc8a) 
   
- 
+ ## 🗂️ Architecture
+ ![](https://img.shields.io/badge/Mobile-MVI-informational?style=flat&logo=android&color=2bbc8a&logoColor=78C257) 
+ ![](https://img.shields.io/badge/Mobile-MVVM-informational?style=flat&logo=android&color=2bbc8a&logoColor=78C257) 
 
 ## &#x1f4c8; GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=josias-soares&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight)
