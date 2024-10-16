@@ -66,9 +66,8 @@ Application developed in [Flutter](https://flutter.dev/) to manage Zabbix server
  
 
 ## &#x1f4c8; GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=josias-soares&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=josias-soares&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josias-soares&layout=compact&theme=tokyonight) 
-
   
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=josias-soares)
 
