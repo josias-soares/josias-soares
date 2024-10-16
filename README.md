@@ -24,7 +24,7 @@ Application developed in [Flutter](https://flutter.dev/) to manage Zabbix server
 
 
 
-## 🔨 Projects
+## 🧰 Projects
 <a href="https://play.google.com/store/apps/details?id=br.com.unicredvisa&hl=en&gl=US"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/unicred-visa.png?raw=true" width="48"> 
 <a href="https://play.google.com/store/apps/details?id=br.com.sistemainfo.tip&hl=en&gl=US"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/tipbank.png?raw=true" width="48"> 
 <a href="https://play.google.com/store/apps/details?id=br.com.sistemainfo.mhwl&hl=en"><img src="https://github.com/josias-soares/josias-soares/blob/main/img/ats-conta-digital.png?raw=true" width="48"> 
