@@ -19,7 +19,7 @@ Application developed in [KMP](https://www.jetbrains.com/compose-multiplatform/)
 in development...)
 
 [OneZabbix](https://play.google.com/store/apps/details?id=br.com.mahhaus.onezabbix&hl=en&gl=US)
-Application developed in [Flutter](https://flutter.dev/) to manage Zabbix servers.(deprecated)
+Application developed in [Flutter](https://flutter.dev/) to manage Zabbix servers.(discontinued)
 
 
 
