@@ -1,6 +1,6 @@
 # Hello, folks! 👋
 
-I'm Josias, Luiza's father, ⚽Flamengo fan, <img src="https://github.com/josias-soares/josias-soares/blob/main/img/pistol.png?raw=true" width="20">Sports shooter, 🎮gamer and I create a 👨🏽‍💻little bug every now and then.
+I'm Josias, Luiza's father, ⚽Flamengo fan, <img src="https://github.com/josias-soares/josias-soares/blob/main/img/pistol.png?raw=true" width="20">Sports shooter e 🎮gamer.
 
 With more than a decade in software development, I work on mobile projects. My professional career reflects a continuous commitment to technical excellence and adaptation to technological changes, especially in Android environments.
 
